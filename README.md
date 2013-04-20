@@ -3,6 +3,6 @@ migs4bae
 
 migs4bae, Photo Gallery for Baidu App Engine
 
-¸ù¾İ <a href="http://mawenjian.net/p/914.html">http://mawenjian.net/p/914.html</a> ĞŞ¸Ä
+æ ¹æ® <a href="http://mawenjian.net/p/914.html">http://mawenjian.net/p/914.html</a> ä¿®æ”¹
 
-ÑİÊ¾µØÖ·£º<a href="http://zweeimg.duapp.com/">http://zweeimg.duapp.com/</a>
+æ¼”ç¤ºåœ°å€ï¼š<a href="http://zweeimg.duapp.com/">http://zweeimg.duapp.com/</a>
